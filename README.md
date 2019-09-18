@@ -10,9 +10,6 @@ Developed by Roger Oliveira.
 
 In the project directory, you can run:
 
-### `yarn install`
-### `yarn start`
-
 To test the images being loaded dynamically:
 
 1. On your Chrome, reduce the screen size
