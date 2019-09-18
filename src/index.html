@@ -1,0 +1,18 @@
+<html>
+
+<head>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>Images Lazy Loading Example</h1>
+    <h2><a href='https://github.com/rogeroliveira84/lazy-loading'>See on GitHub</a></h2>
+    <script>
+        // add 100 images
+        for (let i = 0; i < 100; i++) {
+            document.body.innerHTML += `<img class="image lazy" alt="" data-src="https://cataas.com/cat?width=300&i=${i}" src="images/loading-image.png" /><br>`;
+        }
+    </script>
+</body>
+
+</html>

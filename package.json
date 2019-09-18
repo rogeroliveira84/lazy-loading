@@ -1,0 +1,11 @@
+{
+  "name": "lazy-loading",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rogeroliveira84/lazy-loading.git",
+  "author": "Roger Oliveira <rogeroliveira84@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+      "start": "node src/index.html"
+  }
+}
