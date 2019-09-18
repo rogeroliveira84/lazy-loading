@@ -6,13 +6,11 @@ Project that shows how to implement images lazy loading with Vanilla using Inter
 
 Developed by Roger Oliveira.
 
-## Available Scripts
-
 In the project directory, you can run:
 
 To test the images being loaded dynamically:
 
-1. On your Chrome, reduce the screen size
+1. On your Chrome: open the HTML file (index.html), reduce the screen size
 2. Open Chrome Dev Tools, go to Network tab
 3. Reload the screen F5
 4. Scroll down and see in the network tab the images being loaded dynamically
