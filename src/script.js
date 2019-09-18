@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
             entries.forEach(entry => {
 
                 if (entry.isIntersecting) {
-                    console.log('image loaded')
+                    console.log('image loaded');
                     let lazyImage = entry.target;
                     lazyImage.src = lazyImage.dataset.src;
                     lazyImage.classList.remove("lazy");
